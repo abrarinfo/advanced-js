@@ -16,6 +16,7 @@ function sum(first, second) {
     }
     console.log(day);
     let day = "friday";
+    
     return result;
 }
 const output = sum(8, 9);
